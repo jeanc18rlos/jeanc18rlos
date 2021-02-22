@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanc18rlos" alt="jeanc18rlos" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zyrtech1" target="blank"><img src="https://img.shields.io/twitter/follow/zyrtech1?logo=twitter&style=for-the-badge" alt="zyrtech1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rojsdev" target="blank"><img src="https://img.shields.io/twitter/follow/rojsdev?logo=twitter&style=for-the-badge" alt="rojsdev" /></a> </p>
 
 - 🔭 I’m currently working on [Artoonizate](artoonizate.com)
 
@@ -26,8 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jeanc18rlos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jeanc18rlos" height="30" width="40" /></a>
-<a href="https://twitter.com/zyrtech1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zyrtech1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jean-carlos-a579a5101/?lipi=urn%3ali%3apage%3aprofile_view_index_index%3bfyhi5ygns36lh2n6wv9cgg%3d%3d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jean-carlos-a579a5101/?lipi=urn%3ali%3apage%3aprofile_view_index_index%3bfyhi5ygns36lh2n6wv9cgg%3d%3d" height="30" width="40" /></a>
+<a href="https://twitter.com/rojsdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rojsdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeanrojasdev/?lipi=urn%3ali%3apage%3aprofile_view_index_index%3bfyhi5ygns36lh2n6wv9cgg%3d%3d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jeanrojasdev/?lipi=urn%3ali%3apage%3aprofile_view_index_index%3bfyhi5ygns36lh2n6wv9cgg%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
