@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/rojsdev" target="blank"><img src="https://img.shields.io/twitter/follow/rojsdev?logo=twitter&style=for-the-badge" alt="rojsdev" /></a> </p>
 
-- 🔭 I’m currently working at [Falabella](https://www.falabella.com/)
 
 - 🌱 I’m currently learning **Tensorflow, Webgl, Unreal Engine, C++**
 
