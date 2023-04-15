@@ -20,8 +20,6 @@
 
 - 📄 Know about my experiences [jeanrojas.com/contact](jeanrojas.com/contact)
 
-- ⚡ Fun fact **I love to sing opera**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jeanc18rlos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jeanc18rlos" height="30" width="40" /></a>
